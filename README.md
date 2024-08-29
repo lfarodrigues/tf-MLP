@@ -1,4 +1,4 @@
-Repositrótio para o trabalho final da disciplina de MLP
+Repositório para o trabalho final da disciplina de MLP
 
 Para compilar a aplicação primeiro é necessário ter o Visual Studio 2022 instalado.
 
